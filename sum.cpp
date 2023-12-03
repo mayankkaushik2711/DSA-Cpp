@@ -7,4 +7,5 @@ int main(){
     int b=5;
     cout<<a+b;
     cout<<"djhv";
+    cout<<"djhv";
 }
